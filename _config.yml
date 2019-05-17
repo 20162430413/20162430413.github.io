@@ -3,6 +3,7 @@
 # ---------------- #
 baseurl:
 date_format: "ordinal"
+url:"https://test.org"
 title: 九九叔
 subtitle: 九九叔的github之家
 description: 九九叔的github之家
