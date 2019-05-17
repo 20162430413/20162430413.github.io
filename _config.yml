@@ -2,7 +2,6 @@
 #   Main Configs   #
 # ---------------- #
 baseurl:
-url: http://mazhuang.org
 date_format: "ordinal"
 title: 九九叔
 subtitle: 九九叔的github之家
